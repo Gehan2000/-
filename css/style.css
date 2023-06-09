@@ -1,0 +1,165 @@
+body{
+    direction: rtl;
+    background-color:ghostwhite;
+}
+
+.cover{  
+  color: brown;
+     font-size: 70px;
+   font-family:serif;
+    padding: 40px;
+    margin-top: 40px;
+    
+}
+
+.map-src{
+    margin-bottom: 40px;
+    
+}
+.data{
+    background-color: whitesmoke;
+    margin: 40px;
+    padding: 30px;
+}
+.h22{
+    color: darkblue;
+   
+    font-family: serif;
+    font-size: 60px;
+    margin: 20px;
+    padding:30px;
+}
+.h1{
+   text-align: center;
+    font-family: serif;
+    font-size: 80px;
+    padding: 20px;
+    
+}
+.estesh {
+    background-color:  whitesmoke;
+    margin: 40px;
+    padding: 30px;
+    
+    
+}
+.imggg{
+    width: 500px;
+    margin: 40px;
+    padding: 10px;
+    
+    
+}
+.h33{
+   color: blue;
+    font-family: serif;
+    font-size: 40px;
+    padding: 20px;
+ 
+}
+    
+.helwan{
+   background-color: cornsilk;
+    padding: 20px;
+    margin-bottom: 30px;
+  
+}    
+.img2{
+    margin-bottom: 30px;
+}
+    
+
+.wahat {
+   background-color: cornsilk;
+    padding: 20px;
+    margin-bottom: 30px;
+  
+}    
+
+.sewa{
+   background-color: cornsilk;
+    padding: 20px;
+    margin-bottom: 30px;
+  
+}    
+
+.wady{
+   background-color: cornsilk;
+    padding: 20px;
+    margin-bottom: 30px;
+  
+}    
+
+.kharga{
+   background-color: cornsilk;
+    padding: 20px;
+    margin-bottom: 30px;
+  
+}    
+
+.dakhla{
+   background-color: cornsilk;
+    padding: 20px;
+    margin-bottom: 30px;
+  
+}    
+.farafra{
+   background-color: cornsilk;
+    padding: 20px;
+    margin-bottom: 30px;
+  
+}    
+
+.ghardaaa{
+   background-color: cornsilk;
+    padding: 20px;
+    margin-bottom: 30px;
+  
+}    
+
+
+.safaga{
+   background-color: cornsilk;
+    padding: 20px;
+    margin-bottom: 30px;
+  
+}    
+
+.senaa{
+   background-color: cornsilk;
+    padding: 20px;
+    margin-bottom: 30px;
+  
+}    
+
+.kharga{
+   background-color: cornsilk;
+    padding: 20px;
+    margin-bottom: 30px;
+  
+}    
+
+
+
+
+
+
+
+footer{
+    background-color: darkslategrey;
+    color:bisque;
+    padding: 15px;
+   
+}
+
+footer p{
+    margin: 0; 
+}
+
+
+
+
+
+
+
+  
